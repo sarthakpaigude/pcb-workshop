@@ -1,2 +1,10 @@
-*.zip
 fp-info-cache
+# KiCAD generated/temporary files
+*.zip
+*-bak
+*.lck
+#auto_saved_files#
+
+# KiCAD project user prefs
+*.kicad_prl
+
